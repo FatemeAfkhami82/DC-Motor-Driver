@@ -17,5 +17,8 @@ This repository contains the design files, source code, and documentation for a 
 ![C Language](https://img.shields.io/badge/C-Language-green)
 ![PCB Design](https://img.shields.io/badge/PCB%20Design-orange)
 
+## 📸 PCB 3D View
+![PCB Design](Screenshot%202026-06-20%20114300.png)
+
 ## 📄 Documentation
 Check out the project guide for assembly and testing instructions: [Project Guide](راهنمای%20پروژه.pdf)
